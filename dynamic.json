@@ -1,0 +1,44 @@
+{
+  "profile":{
+    "image":"images/baby.jfif",
+    "name":"preethi",
+    "degree":"btech",
+    "phno":"99487785873",
+    "emailid":"preethi123@gmail.com"
+  },
+  "career":{
+    "info":"to work hard"
+  },
+  "education":[
+    {
+    "sno":"1",
+    "degree":"btech",
+    "institute":"mits",
+    "yop":"2021",
+    "percentage":"90.2"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "institute":"narayana",
+    "yop":"2017",
+    "percentage":"97.6"
+  },
+  {
+    "sno":"3",
+    "degree":"10th",
+    "institute":"r.h.s",
+    "yop":"2015",
+    "percentage":"95"
+  }
+],
+"skills":[{
+  "name":"WebTechnologies",
+  "info":["hTML","CSS","JS"]
+},
+{
+  "name":"Database",
+  "info":["jdbc","firrebase","sql"]
+}
+]
+}
